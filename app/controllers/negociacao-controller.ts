@@ -11,6 +11,10 @@ export class NegociacaoController {
     }
 
     adiciona() {
+
+        const exp = /-/g
+        const date = new Date(this.inputData.value.replace(exp, ','))
+
         const negociacao = new Negociacao(
             this.inputData.value,
             this.inputQuantidade.value,
