@@ -10,5 +10,5 @@
 - :city_sunset: Aprenda a utilizar tipos, modificadores, Generics entre outros :city_sunset:
 
 ### Sobre
-Parte da trilha de back-end em Angular da [alura](https://cursos.alura.com.br)
+Parte da trilha de front-end em javascript da [alura](https://cursos.alura.com.br)
 [link](https://cursos.alura.com.br/course/typescript-evoluindo-javascript)
